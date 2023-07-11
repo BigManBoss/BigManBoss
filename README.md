@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @BigManBoss
-- 👀 I’m interested in ... dunno
-- 🌱 I’m currently learning stuff ... you know ...
-- 📫 How to reach me ... don't, just don't ... I don't wanna talk to you
-
-I'm learning... (it means I dont know what I'm doing)
+# Hello
+I'm learning how to code so don't expect too much out of my projects
+## Website
+if you want to see my website just go to teseopoma.com
